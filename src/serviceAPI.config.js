@@ -1,0 +1,1 @@
+const baseUrl="https://www.easy-mock.com/mock/5b38f5d78b3b752220ff64a6/vueandkao2/"
